@@ -6,7 +6,7 @@ let fullName = favActorFirstName + "" + favActorLastName;
 
 let uppercase = fullName.toLowerCase();
 
-let lowercase = "Torgal".toUpperCase();
+let lowercase = "Whietey".toUpperCase();
 
 let message = "My favorite actor is " + fullName.toUpperCase();
 
